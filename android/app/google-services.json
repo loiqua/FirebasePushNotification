@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840165212622",
+    "project_id": "react-messaging-8a482",
+    "storage_bucket": "react-messaging-8a482.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840165212622:android:32f3fbda8f9b22a7d22b9f",
+        "android_client_info": {
+          "package_name": "com.mypushapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdmRnpOgoljC4oMgCFSoFJDnLePgAo85o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
